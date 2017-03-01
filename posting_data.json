@@ -1,0 +1,66 @@
+{
+  "posting" : {
+    "spaces" : [
+      {
+        "name"            : "open_workspace_1",
+        "type"            : "open_workspace",
+        "price"           : 150.00,
+        "available_space" : 1
+      },
+      {
+        "name"            : "open_workspace_2",
+        "type"            : "open_workspace",
+        "price"           : 200.00,
+        "available_space" : 2
+      },
+      {
+        "name"            : "open_workspace_3",
+        "type"            : "open_workspace",
+        "price"           : 300.00,
+        "available_space" : 3
+      },
+      {
+        "name"            : "open_workspace_4",
+        "type"            : "open_workspace",
+        "price"           : 325.00,
+        "available_space" : 5
+      },
+      {
+        "name"            : "open_workspace_5",
+        "type"            : "open_workspace",
+        "price"           : 400.00,
+        "available_space" : 10
+      },
+      {
+        "name"            : "private_office_1",
+        "type"            : "private_office",
+        "price"           : 900.00,
+        "available_space" : 1
+      },
+      {
+        "name"            : "private_office_2",
+        "type"            : "private_office",
+        "price"           : 1500.00,
+        "available_space" : 2
+      },
+      {
+        "name"            : "private_office_3",
+        "type"            : "private_office",
+        "price"           : 1750.00,
+        "available_space" : 3
+      },
+      {
+        "name"            : "private_office_4",
+        "type"            : "private_office",
+        "price"           : 2000.00,
+        "available_space" : 4
+      },
+      {
+        "name"            : "private_office_5",
+        "type"            : "private_office",
+        "price"           : 3500.00,
+        "available_space" : 5
+      }
+    ]
+  }
+}
